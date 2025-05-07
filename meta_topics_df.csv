@@ -1,0 +1,31 @@
+cluster_label,num_topics,num_docs,meta_topic_rep
+0,3,28,"['trump' 'political' 'https' 'violent' 'twitter' 'think' 'security'
+ 'social' 'privacy' 'power' 'politicians' 'vote' 'platform' 'phishing'
+ 'passwords' 'pen' 'microsoft' 'media' 'mail' 'mx']"
+1,20,603,"['think' 'really' 'don' 'ai' 'just' 'things' 'work' 'code' 'people' 'make'
+ 'llms' 'language' 'llm' 'like' 'software' 'company' 'doesn' 'reasoning'
+ 'models' 'human']"
+2,8,124,"['google' 'browser' 'firefox' 'https' 'chrome' 'mozilla' 'web' 'chromium'
+ 'browsers' 'ads' 'safari' 'don' 'privacy' 'really' 'apple' 'just'
+ 'ublock' 'ad' 'brave' 'money']"
+3,7,83,"['war' 'trump' 'russia' 'europe' 'ukraine' 'nato' 'eu' 'military'
+ 'countries' 'just' 'nuclear' 'putin' 'weapons' 'russian' 'country'
+ 'european' 'peace' 'china' 'american' 'nukes']"
+4,10,174,"['rust' 'language' 'code' 'type' 'memory' 'languages' 'compiler' 'really'
+ 'don' 'python' 'unsafe' 'write' 'zig' 'venv' 'project' 'pyenv' 'packages'
+ 'pip' 'macros' 'just']"
+5,4,45,"['country' 'immigration' 'border' 'trump' 'visa' 'violence' 'government'
+ 'canada' 'https' 'risk' 'police' 'surveillance' 'way' 'travel' 'phone'
+ 'privacy' 'private' 'panopticon' 'law' 'public']"
+6,12,178,"['trump' 'government' 'money' 'market' 'tesla' 'energy' 'think' 'tax'
+ 'taxes' 'economic' 'don' 'currency' 'cars' 'economy' 'irs' 'federal'
+ 'gold' 'musk' 'power' 'like']"
+7,2,19,"['visa' 'terrorist' 'rights' 'support' 'law' 'protests' 'court' 'deported'
+ 'israel' 'amendment' 'green' 'hamas' 'speech' 'trump' 'immigration'
+ 'khalil' 'news' 'legal' 'political' 'freedom']"
+8,7,59,"['memory' 'hardware' 'cpu' 'apple' 'xbox' 'windows' 'security'
+ 'performance' 'model' 'gpu' 'firmware' 'software' 'ram' 'bluetooth'
+ 'engines' 'os' 'intel' 'engine' 'esp32' 'devices']"
+9,6,64,"['think' 'cancer' 'coffee' 'blood' 'sugar' 'study' 'history' 'health'
+ 'immune' 'food' 'ireland' 'just' 'paternity' 'research' 'famine'
+ 'aspirin' 'child' 'risk' 'placebo' 'skin']"
