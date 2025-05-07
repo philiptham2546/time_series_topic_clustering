@@ -15,4 +15,12 @@ We extracted topic representations with BERTopic, tracked them through time via 
   <li>Update the desired page count to fetch per day.</li>
   <li>Run cell.</li>
 </ol><br>
-<b>Output:</b> Text file where each row has one article title immediately followed by its comments on the HackerNews site
+<b>Output:</b> Text file where each row has one article title immediately followed by its comments on the HackerNews site<br>
+<h2>TLDR of files</h2><br>
+<ul>
+  <li>aml_betopic_opt_scratch.ipynb: tuning bertopic hyperparameters (pca n_comp and hdbscan min_cluster_size)</li>
+  <li>meta_cluster_identification.ipynb: stages 1 and 2 (identifying topics in each batch using bertopic, identifying meta clusters across batches using kmeans)</li>
+  <li>meta_topics_cv_df.csv: cross validated meta topic representations to show model stability</li>
+  <li>meta_topics_df.csv: meta topic representations</li>
+  <li>top_20_tfidf_all_batches.zip: zipped 13 csv files of the top 20 words by tfidf from each batch for dumb and reasonable model evaluation</li>
+</ul>
