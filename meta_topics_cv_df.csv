@@ -1,0 +1,30 @@
+cluster_label,num_topics,num_docs,meta_topic_rep
+0,3,42,"['trump' 'money' 'government' 'years' 'taxes' 'tax' 'tariffs' 'stock'
+ 'spending' 'social' 'think' 'tesla' 'president' 'prices' 'ponzi' 'power'
+ 'market' 'like' 'irs' 'federal']"
+1,4,89,"['mozilla' 'google' 'chrome' 'browser' 'https' 'web' 'don' 'firefox'
+ 'browsers' 'chromium' 'ads' 'really' 'ublock' 'just' 'apple' 'ad'
+ 'librewolf' 'money' 'privacy' 'way']"
+2,3,34,"['visa' 'law' 'green' 'rights' 'israel' 'protests' 'support' 'immigration'
+ 'court' 'hamas' 'amendment' 'deported' 'terrorist' 'way' 'speech'
+ 'khalil' 'political' 'news' 'legal' 'trump']"
+3,7,209,"['code' 'memory' 'just' 'language' 'things' 'ai' 'rust' 'really' 'don'
+ 'hardware' 'apple' 'compiler' 'languages' 'think' 'vram' 'write'
+ 'typescript' 'uefi' 'understand' 'undocumented']"
+4,3,44,"['war' 'ukraine' 'trump' 'nato' 'military' 'russia' 'europe' 'countries'
+ 'weapons' 'russian' 'nuclear' 'eu' 'just' 'putin' 'country' 'tariffs'
+ 'power' 'peace' 'nukes' 'european']"
+5,2,18,"['paternity' 'immune' 'transgender' 'tattoos' 'tattoo' 'vaccine' 'sugar'
+ 'study' 'skin' 'studies' 'risk' 'research' 'patients' 'transgenic'
+ 'outbreak' 'measles' 'hormones' 'health' 'father' 'donation']"
+6,3,47,"['work' 'company' 'really' 'make' 'engineers' 'software' 'think'
+ 'engineer' 'don' 'ai' 'time' 'tech' 'things' 'working' 'money' 'llm'
+ 'llms' 'management' 'managers' 'openai']"
+7,1,6,"['venv' 'uv' 'tqdm' 'tools' 'tool' 'sync' 'pytorch' 'python' 'pyenv'
+ 'projects' 'project' 'pip' 'pandas' 'packages' 'make' 'github' 'env'
+ 'dependencies' 'conda' 'code']"
+8,3,31,"['trump' 'energy' 'violent' 'think' 'social' 'ribosome' 'twitter'
+ 'regulations' 'reconsideration' 'political' 'process' 'plants' 'oil'
+ 'media' 'platform' 'market' 'make' 'hydrogen' 'just' 'https']"
+9,1,15,"['world' 'time' 'think' 'make' 'like' 'just' 'ireland' 'history' 'food'
+ 'famine' 'discworld' 'cancer' 'blood']"
