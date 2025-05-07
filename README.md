@@ -5,10 +5,10 @@ This project aims to apply machine learning techniques to help tech investors in
 To do so, we designed an algorithm to detect tech topics that start small but grow over time using time‑series topic analysis. Our data consisted of text scraped from the tech‑focused news site Hacker News over seven weeks. 
 We extracted topic representations with BERTopic, tracked them through time via K‑means clustering, and scored them based on investor relevance. We find that the model successfully identified dominant themes during this period—such as “Political Economy” and “Web Browsers”—but further tuning and a longer time window would be necessary to surface more specific topics with genuine investment potential.
 <br>
-<h2>Data scraping for HackerNews articles and comments summary</h2><br>
+<h2>Data scraping for HackerNews articles and comments summary</h2>
 <b>Dependencies:</b> bs4, requests, optionally, fake_useragent<br>
 <b>Parameters:</b> date range, pages per day<br><br>
-<b>Usage:</b><br>
+<b>Usage:</b>
 <ol>
   <li>Update the day1 and day2 params which establish beginning and ending of date range to fetch. However, multiday requests often fail, so it's better to make both days consecutive, hence why there is no param for month. </li>
   <li>Update desired output file name.</li>
@@ -16,7 +16,7 @@ We extracted topic representations with BERTopic, tracked them through time via 
   <li>Run cell.</li>
 </ol><br>
 <b>Output:</b> Text file where each row has one article title immediately followed by its comments on the HackerNews site<br>
-<h2>TLDR of files</h2><br>
+<h2>TLDR of files</h2>
 <ul>
   <li>aml_betopic_opt_scratch.ipynb: tuning bertopic hyperparameters (pca n_comp and hdbscan min_cluster_size)</li>
   <li>meta_cluster_identification.ipynb: stages 1 and 2 (identifying topics in each batch using bertopic, identifying meta clusters across batches using kmeans)</li>
